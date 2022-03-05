@@ -4,9 +4,9 @@ author: "octocat@github.com"
 
 inputs:
   MY_NAME:
-  description: "Who to greet"
-  required: true
-  default: "world"
+    description: "Who to greet"
+    required: true
+    default: "world"
   
 runs:
   using: "docker"
